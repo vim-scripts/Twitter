@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1853
+
+It's just a simple client for Twitter, if you want to update your Twitter status, check public timeline or your friends timeline all right from within your Vim, then this script is for you!
+
+NOTE: It requires your Vim to be compiled with Python bindings (which is, in most distributions by default)

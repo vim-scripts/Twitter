@@ -57,6 +57,7 @@ def StatusUpdate(status):
 
     opts = urllib.urlencode({
         "status" : status,
+        "source" : "vimscript1853"
         })
 
     try:
